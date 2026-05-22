@@ -15,13 +15,19 @@ JavaScript
 Screenshots
 
 Chatbot Logo
+
+
 <img src="https://github.com/user-attachments/assets/55fb507b-51b8-431b-bfe5-224caabb0d3f" width="500" />
 
 Mistyy Logo
+
+
 <img src="https://github.com/user-attachments/assets/d9b4fbb2-df9d-4741-a646-9fd8315446e3" width="500" />
 
 
 Chatbot Interface
+
+
 <img src="https://github.com/user-attachments/assets/4d01f48a-31e8-4612-9745-a7bfbb1cf2c2" width="800" />
 
 Purpose
