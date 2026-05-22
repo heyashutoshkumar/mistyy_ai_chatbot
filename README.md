@@ -18,7 +18,8 @@ Chatbot Logo
 <img src="https://github.com/user-attachments/assets/55fb507b-51b8-431b-bfe5-224caabb0d3f" width="500" />
 
 Mistyy Logo
-<img src="https://github.com/user-attachments/assets/d96b35d4-cc00-47dc-98ef-b738b8212c89" width="500" />
+<img width="1254" height="1254" alt="mistyy_logo png" src="https://github.com/user-attachments/assets/d9b4fbb2-df9d-4741-a646-9fd8315446e3" />
+
 
 Chatbot Interface
 <img src="https://github.com/user-attachments/assets/4d01f48a-31e8-4612-9745-a7bfbb1cf2c2" width="800" />
