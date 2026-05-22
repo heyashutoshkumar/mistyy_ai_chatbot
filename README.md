@@ -1,35 +1,44 @@
-Mistyy AI 🤖
+# Mistyy AI 🤖
 
-Mistyy is an AI-powered eCommerce assistant inspired by platforms like Meesho. It helps users with product queries, support, and shopping assistance through an interactive chatbot interface.
+Mistyy is a simple AI chatbot project made for learning how AI chatbot integration works in web development.
 
-🚀 Features
-Smart AI chatbot support
-eCommerce assistance (product search & help)
-Voice-enabled interaction
-Clean and responsive UI
+It uses Chatbase to handle chatbot responses and provides basic eCommerce-related support.
 
-🛠️ Built With
-Chatbase
-HTML
-CSS
-JavaScript
+---
 
-Chatbot Logo
+## 🚀 Features
+- AI chatbot integration using Chatbase  
+- Basic eCommerce support responses  
+- Simple and clean web interface  
+- Beginner-level frontend project  
 
+---
 
-<img src="https://github.com/user-attachments/assets/55fb507b-51b8-431b-bfe5-224caabb0d3f" width="500" />
+## 🛠️ Built With
+- Chatbase (AI chatbot service)  
+- HTML  
+- CSS  
+- JavaScript  
 
-Mistyy Logo
+---
 
+## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/d9b4fbb2-df9d-4741-a646-9fd8315446e3" width="500" />
+**Chatbot Logo**  
+<img src="https://github.com/user-attachments/assets/55fb507b-51b8-431b-bfe5-224caabb0d3f" width="400" />
 
+**Mistyy Logo**  
+<img src="https://github.com/user-attachments/assets/d9b4fbb2-df9d-4741-a646-9fd8315446e3" width="400" />
 
-Chatbot Interface
+**Chat Interface**  
+<img src="https://github.com/user-attachments/assets/4d01f48a-31e8-4612-9745-a7bfbb1cf2c2" width="700" />
 
+---
 
-<img src="https://github.com/user-attachments/assets/4d01f48a-31e8-4612-9745-a7bfbb1cf2c2" width="800" />
+## 🎯 Purpose
+This project was created to learn how AI chatbot integration works in simple web applications.
 
-Purpose
+---
 
-This project was made to explore how AI can be used in ecommerce for better user interaction.
+## 🚧 Status
+This is a beginner-level project made for learning and practice. Not production-ready.
