@@ -1,18 +1,18 @@
 Mistyy AI 🤖
 
-Mistyy is an AI-powered ecommerce assistant inspired by platforms like Meesho. It helps users with shopping related queries and basic support using a chatbot.
+Mistyy is an AI-powered eCommerce assistant inspired by platforms like Meesho. It helps users with product queries, support, and shopping assistance through an interactive chatbot interface.
 
-Features
-Smart chatbot support
-Ecommerce assistance
-Voice interaction support
-Simple and clean UI
-Built With
+🚀 Features
+Smart AI chatbot support
+eCommerce assistance (product search & help)
+Voice-enabled interaction
+Clean and responsive UI
+
+🛠️ Built With
 Chatbase
 HTML
 CSS
 JavaScript
-Screenshots
 
 Chatbot Logo
 
