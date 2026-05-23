@@ -11,6 +11,7 @@ It uses Chatbase to handle chatbot responses and provides basic eCommerce-relate
 - Basic eCommerce support responses  
 - Simple and clean web interface  
 - Beginner-level frontend project  
+- Easy to use
 
 ---
 
